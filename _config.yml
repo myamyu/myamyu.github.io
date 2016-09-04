@@ -1,11 +1,23 @@
 title: "myamyu's github page"
 email: "myamyu@gmail.com"
-description: "@myamyuのGithub Page"
+description: "myamyuのGithub Page"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://myamyu.github.io" # the base hostname & protocol for your site
-twitter_username: myamyu
-github_username:  myamyu
+author:
+  twitter: myamyu
+  github: myamyu
+twitter:
+  username: myamyu
+github:
+  username:  myamyu
 timezone: Asia/Tokyo
-# Build settings
 markdown: kramdown
-theme: minima
+collections:
+  posts:
+    permalink: /posts/:categories/:year-:month-:day/:title/
+gems:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
