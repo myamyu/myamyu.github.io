@@ -1,0 +1,34 @@
+---
+layout: page
+title: ブログ
+---
+{% for post in paginator.posts %}
+	<section>
+		<h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+		<div class="post">
+			<p>{{ post.excerpt }}</p><span class="date">{{ post.date|date:"%F" }}</span>
+		</div>
+	</section>
+{% endfor %}
+
+<div class="pagination">
+	<ul>
+		{% if paginator.previous_page %}
+			<li><a href="{{ paginator.previous_page_path }}">&lt;</a></li>
+		{% endif %}
+		{% for page in (1..paginator.total_pages) %}
+			<li>
+				{% if page == paginator.page %}
+					<span>{{page}}</span>
+				{% elsif page == 1 %}
+					<a href="/posts/">{{page}}</a>
+				{% else %}
+					<a href="/{{ site.paginate_path | replace: ':num', page }}/">{{page}}</a>
+				{% endif %}
+			</li>
+		{% endfor %}
+		{% if paginator.next_page %}
+			<li><a href="{{ paginator.next_page_path }}">&gt;</a></li>
+		{% endif %}
+	</ul>
+</div>

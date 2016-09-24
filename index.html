@@ -6,13 +6,16 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		{% seo %}
+		<link rel="stylesheet" href="/css/top.css">
 	</head>
 	<body>
-		<h1>みゃみゅ玉子のGithub Page</h1>
-		<nav class="menu">
-		</nav>
+		<header>
+			<h1>みゃみゅ玉子のGithub Page</h1>
+		</header>
+		{% include global_navi.html %}
 		<main>
 			<article>
+				最終更新：{{site.time}}
 			</article>
 		</main>
 		<nav class="posts">
@@ -22,6 +25,7 @@
 				<li>
 					<a href="{{post.url}}">{{post.title}}</a>
 					{{ post.date|date:"%F" }}
+					{{ post.excerpt }}
 				</li>
 				{% endfor %}
 			</ul>
