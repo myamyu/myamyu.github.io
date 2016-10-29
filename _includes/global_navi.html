@@ -1,7 +1,16 @@
 <nav class="menu">
 	<ul>
+		{% if page.url != "/"/%}
 		<li><a href="/">トップ</a></li>
+		{% endif %}
+		{% if page.url != "/profile.html"/%}
 		<li><a href="/profile.html">プロフィール</a></li>
+		{% endif %}
+		{% if page.url != "/history.html"/%}
 		<li><a href="/history.html">履歴</a></li>
+		{% endif %}
+		{% if page.url != "/posts/"/%}
+		<li><a href="/posts/">News</a></li>
+		{% endif %}
 	</ul>
 </nav>

@@ -12,23 +12,11 @@
 		<header>
 			<h1>みゃみゅ玉子のGithub Page</h1>
 		</header>
-		{% include global_navi.html %}
 		<main>
 			<article>
+				{% include global_navi.html %}
 				最終更新：{{site.time}}
 			</article>
 		</main>
-		<nav class="posts">
-			<h2>posts</h2>
-			<ul>
-				{% for post in site.posts %}
-				<li>
-					<a href="{{post.url}}">{{post.title}}</a>
-					{{ post.date|date:"%F" }}
-					{{ post.excerpt }}
-				</li>
-				{% endfor %}
-			</ul>
-		</nav>
 	</body>
 </html>
