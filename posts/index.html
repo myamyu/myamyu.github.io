@@ -15,11 +15,13 @@ title: news
 	<ul>
 		{% if paginator.previous_page %}
 			<li><a href="{{ paginator.previous_page_path }}">&lt;</a></li>
+		{% else %}
+			<li><span>&lt;</span></li>
 		{% endif %}
 		{% for page in (1..paginator.total_pages) %}
 			<li>
 				{% if page == paginator.page %}
-					<span>{{page}}</span>
+					<span class="current-page">{{page}}</span>
 				{% elsif page == 1 %}
 					<a href="/posts/">{{page}}</a>
 				{% else %}
@@ -29,6 +31,8 @@ title: news
 		{% endfor %}
 		{% if paginator.next_page %}
 			<li><a href="{{ paginator.next_page_path }}">&gt;</a></li>
+		{% else %}
+			<li><span>&gt;</span></li>
 		{% endif %}
 	</ul>
 </div>
