@@ -60,4 +60,33 @@ article {
 	h3 {
 		margin: 1rem 0 0 0;
 	}
+	p {
+		margin: 1em 0;
+		padding: 0 0 1em;
+		border-bottom: dotted 2px change-color($black-color, $lightness: 90%);
+		border-radius: 25%;
+	}
+	li {
+		list-style: none;
+		background-color: change-color(nth($base-colors, 1), $lightness: 98%);
+		box-shadow: 2px 2px 8px change-color(nth($base-colors, 3), $lightness: 70%);
+		border-radius: 8px;
+		margin: 1.5rem 0 0 1em;
+		padding: 1rem;
+		color: change-color($black-color, $lightness: 55%);
+	}
+	table {
+		table-layout: fixed;
+		width: 96%;
+		margin: 1rem auto;
+		th {
+			font-size: 12pt;
+			background-color: change-color(nth($accent-colors, 3), $lightness: 70%);
+			padding: 0.5rem 0;
+		}
+		td {
+			font-size: 12pt;
+			background-color: change-color(nth($accent-colors, 3), $lightness: 95%);
+		}
+	}
 }
