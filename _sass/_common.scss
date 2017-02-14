@@ -23,9 +23,15 @@ a {
 }
 
 body {
-	font-family: "Yu Gothic", YuGothic, Verdana, Meiryo, sans-serif;
+	font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Yu Gothic", YuGothic, Verdana, Meiryo, sans-serif;
 	font-size: 14pt;
 	color: $content-text-color;
 	background-color: nth($base-colors, 1);
 	line-height: 1.6;
+}
+
+@media all and (-ms-high-contrast: none) {
+  body {
+    font-family: Verdana, Meiryo, sans-serif;
+  }
 }
