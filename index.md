@@ -16,7 +16,7 @@ title: About みゃみゅ玉子
 職業
 -----
 
-SE(Standing Engineer)
+SE(Standing Engineer/System Entertainer/Spacium Entertainer...)
 
 ※ 詳しく知りたい方は、[履歴](/history.html)を御覧ください。
 
