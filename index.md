@@ -11,12 +11,11 @@ title: About みゃみゅ玉子
 「なんとかなる」「なんとかする」「なんとかできる」の３つの言葉を胸になんとかなってここまできている。  
 何も無いが自信はある。多趣味だが飽きっぽい。大きな目標は無いが細かいところにこだわりを持つことがある。
 
-ワークスタイルは「イメージ指向のノンロジカルプログラマー」という矛盾したカテゴリーに属する。しかし、絵は描けない。
-
 職業
 -----
 
-SE(Standing Engineer/System Entertainer/Spacium Entertainer...)
+SE(Standing Engineer/System Entertainer/Spacium Entertainer...)  
+ワークスタイルは「イメージ指向のノンロジカルプログラマー」という矛盾したカテゴリーに属する。しかし、絵は描けない。
 
 ※ 詳しく知りたい方は、[履歴](/history.html)を御覧ください。
 
