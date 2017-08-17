@@ -1,6 +1,5 @@
 ---
-layout: page
-title: About みゃみゅ玉子
+title: "About みゃみゅ玉子"
 ---
 
 みゃみゅ玉子(みゃみゅたまご)

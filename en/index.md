@@ -1,13 +1,23 @@
 ---
-layout: page_en
-title: About Myamyu-Tamago
-toc: true
+title: "About Myamyu-Tamago"
 ---
 
 Myamyu-Tamago
 ==============
 
 Myamyu-Tamago was born in Ibaraki, Japan on 23 March 1980.
+
+
+Why is his name "Myamyu-Tamago"?
+-----------------------------------
+
+When he was junior high school student he thought "I'll make many friends in web chat room!" and he named himself "Myamyu".
+But some years later he found that the name was not unique.
+
+He said "OK! I have good idea!"  
+And he added the name "Tamago".
+
+Yes, "Myamyu-Tamago" had just born at that time.
 
 Job
 ----
@@ -22,7 +32,7 @@ His workstyle is "Imagination-Oriented Programmer". But he is not good at drawin
 - He is planning and programming UI A/B tests on the web site.
 - He is good at making UI using animation. For example [Yuzu-Yu animation](https://myamyu.github.io/yuzuyu/).
 
-### Skill
+### Skills
 
 - Web front end
   - JavaScript
@@ -41,17 +51,6 @@ His workstyle is "Imagination-Oriented Programmer". But he is not good at drawin
   - ruby
     - lita (chat bot)
   - python
-
-Why is his name "Myamyu-Tamago"?
------------------------------------
-
-When he was junior high school student he thought "I'll make many friends in web chat room!" and he named himself "Myamyu".
-But some years later he found that the name was not unique.
-
-He said "OK! I have good idea!"  
-And he added the name "Tamago".
-
-Yes, "Myamyu-Tamago" had just born at that time.
 
 Links
 ----------
