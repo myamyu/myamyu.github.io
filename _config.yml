@@ -1,6 +1,6 @@
 title: "myamyu's github page"
 email: "myamyu@gmail.com"
-description: "myamyuのGithub Page"
+description: "myamyu's github page"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://myamyu.github.io" # the base hostname & protocol for your site
 author:
@@ -14,8 +14,20 @@ timezone: Asia/Tokyo
 markdown: kramdown
 collections:
   posts:
-    layout: post
     permalink: /posts/:categories/:year-:month-:day/:title/
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "en"
+      type: "pages"
+    values:
+      layout: "page_en"
 paginate: 5
 paginate_path: "posts/page:num"
 gems:
