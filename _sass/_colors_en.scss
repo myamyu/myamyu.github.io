@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+$main-color: #ffffff;
+$white-color: #f8fbf8;
+$black-color: #606060;
+
+$main-colors: (
+	$main-color
+	adjust-hue($main-color, 36deg)
+	adjust-hue($main-color, 25deg)
+);
+$base-colors: (
+	change-color(nth($main-colors, 1), $lightness: 95%)
+	change-color(nth($main-colors, 2), $lightness: 90%)
+	change-color(nth($main-colors, 3), $lightness: 90%)
+);
+$accent-colors: (
+	change-color(adjust-hue(nth($main-colors, 1), 100deg), $saturation: 90%)
+	change-color(adjust-hue(nth($main-colors, 2), 100deg), $saturation: 90%)
+	change-color(adjust-hue(nth($main-colors, 3), 100deg), $saturation: 90%)
+);
+
+/* コンテンツ部分 */
+$content-text-color: $black-color;
+$content-bg-color: $white-color;
+
+$light-back-text-color: $black-color;
+$dark-back-text-color: $white-color;

@@ -1,0 +1,36 @@
+---
+---
+
+@charset "utf-8";
+@import "colors_en";
+
+$header-background-color: $white-color;
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+a {
+	&:link {
+		color: change-color(nth($accent-colors, 1), $lightness: 40%);
+	}
+	&:visited {
+		color: change-color(nth($accent-colors, 2), $lightness: 40%);
+	}
+	&:hover {
+		color: change-color(nth($accent-colors, 3), $lightness: 60%);
+	}
+}
+
+body {
+	font-family: Verdana, Meiryo, sans-serif;
+	font-size: 14pt;
+	color: $content-text-color;
+	background-color: nth($base-colors, 1);
+	line-height: 1.6;
+}
+
+@import "page_pc_en";
+@import "page_sp";
