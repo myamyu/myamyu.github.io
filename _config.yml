@@ -12,6 +12,9 @@ github:
   username:  myamyu
 timezone: Asia/Tokyo
 markdown: kramdown
+kramdown:
+  input: GFM
+future: false
 collections:
   posts:
     permalink: /posts/:categories/:year-:month-:day/:title/
