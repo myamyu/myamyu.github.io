@@ -1,0 +1,3 @@
+{% for locale in page.locale%}
+<link rel="alternate" href="{{site.url}}{{locale.href}}" hreflang="{{locale.lang}}">
+{% endfor %}

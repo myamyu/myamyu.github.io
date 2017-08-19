@@ -5,12 +5,14 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		{% seo %}
 		<link rel="stylesheet" href="/css/page_en.css">
+		{% include hreflang.html %}
 		<base href="/en/">
 	</head>
 	<body>
 		<header>
 			<h1>{{page.title}}</h1>
 		</header>
+		{% include lang_links.html %}
 		<main>
 			<article>{{content}}</article>
 		</main>

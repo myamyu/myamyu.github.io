@@ -32,5 +32,12 @@ body {
 	line-height: 1.6;
 }
 
+.languages {
+	background-color: $header-background-color;
+	text-align: right;
+	line-height: 3;
+	padding-right: 1em;
+}
+
 @import "page_pc_en";
 @import "page_sp";

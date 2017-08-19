@@ -33,6 +33,13 @@ body {
 	line-height: 1.6;
 }
 
+.languages {
+	background-color: $header-background-color;
+	text-align: right;
+	line-height: 3;
+	padding-right: 1em;
+}
+
 @media all and (-ms-high-contrast: none) {
   body {
     font-family: Verdana, Meiryo, sans-serif;

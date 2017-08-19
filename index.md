@@ -1,5 +1,9 @@
 ---
 title: "About みゃみゅ玉子"
+locale:
+  -
+    href: "/en/"
+    lang: "en"
 ---
 
 みゃみゅ玉子(みゃみゅたまご)

@@ -1,5 +1,9 @@
 ---
 title: "About Myamyu-Tamago"
+locale:
+  -
+    href: "/"
+    lang: "ja"
 ---
 
 Myamyu-Tamago
