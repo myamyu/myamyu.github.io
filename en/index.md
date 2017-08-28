@@ -32,29 +32,11 @@ His workstyle is "Imagination-Oriented Programmer". But he is not good at drawin
 
 ### Recently (2017)
 
-- He is member of "LEAN Team".
-- He is planning and programming UI A/B tests on the web site.
-- He is good at making UI using animation. For example [Yuzu-Yu animation](https://myamyu.github.io/yuzuyu/).
-
-### Skills
-
-- Web front end
-  - JavaScript
-    - jQuery
-    - riotjs
-  - css
-    - sass
-  - TypeScript
-  - ECMAScript
-  - gulp
-  - webpack
-- Web server side
-  - Java
-    - SA Struts
-- etc
-  - ruby
-    - lita (chat bot)
-  - python
+- Analyzing website using Adobe Analytics and BigQuery. (since 2017)
+- Promoting ChatOps in the team. (since 2016)
+- Planning and programming UI A/B tests on the web site. (since 2014)
+- Member of "LEAN Team". (since 2014)
+- Good at making UI using animation. For example [Yuzu-Yu animation](https://myamyu.github.io/yuzuyu/).
 
 Links
 ----------
