@@ -30,13 +30,12 @@ His job is SE(Standing Engineer or System Entertainer or Spacium Entertainer) wh
 
 His workstyle is "Imagination-Oriented Programmer". But he is not good at drawing.
 
-### Recently (2017)
-
-- Analyzing website using Adobe Analytics and BigQuery. (since 2017)
-- Promoting ChatOps in the team. (since 2016)
-- Planning and programming UI A/B tests on the web site. (since 2014)
-- Member of "LEAN Team". (since 2014)
-- Good at making UI using animation. For example [Yuzu-Yu animation](https://myamyu.github.io/yuzuyu/).
+- Recently (2017)
+  - Analyzing website using Adobe Analytics and BigQuery. (since 2017)
+  - Promoting ChatOps in the team. (since 2016)
+  - Planning and programming UI A/B tests on the web site. (since 2014)
+  - Member of "LEAN Team". (since 2014)
+  - Good at making UI using animation. For example [Yuzu-Yu animation](https://myamyu.github.io/yuzuyu/).
 
 Links
 ----------
