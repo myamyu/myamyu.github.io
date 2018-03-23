@@ -44,6 +44,7 @@ SNSなど
 ----
 
 - github - @myamyu
+- Medium - [@myamyu](https://medium.com/@myamyu)
 - twitter - [@myamyu](https://twitter.com/myamyu)
 - instagram - [myamyu](https://www.instagram.com/myamyu/)
 - qiita - [myamyu](http://qiita.com/myamyu)
