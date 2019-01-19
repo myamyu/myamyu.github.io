@@ -44,7 +44,6 @@ SNSなど
 ----
 
 - github - @myamyu
-- Medium - [@myamyu](https://medium.com/@myamyu)
+- blog - [なぜ、みゃみゅに玉子がついたのか？](https://written-by-me.hatenadiary.jp/)
 - twitter - [@myamyu](https://twitter.com/myamyu)
 - instagram - [myamyu](https://www.instagram.com/myamyu/)
-- qiita - [myamyu](http://qiita.com/myamyu)
