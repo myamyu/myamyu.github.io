@@ -22,6 +22,16 @@ SE(Standing Engineer/System Entertainer/Spacium Entertainer...)
 
 ※ 詳しく知りたい方は、[履歴](/history.html)を御覧ください。
 
+趣味
+-----
+
+- ももクロ
+- [ダーツ](/darts/)
+- カラオケ
+- 映画
+- [アニメ・漫画](/anime/)
+- ゲーム
+
 名前の由来
 -----------
 
