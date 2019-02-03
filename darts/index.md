@@ -12,8 +12,6 @@ title: "【趣味】ダーツ"
 
 2018年、自宅にハードダーツのボードを設置したことで、スティールダーツ界隈にも興味を持つことになる。
 
-[Darts Log By Myamyu Tamago](https://myamyu-darts.blogspot.com/)にて、ダーツに関するニュースや大会についてたまに書いている。
-
 セッティング
 ------------
 
@@ -33,5 +31,3 @@ title: "【趣味】ダーツ"
 |神ダーツ28号機(MoA)|L-SHaft Lock Straight 190(L-Style)|Flight-L L3 Shape(L-Style)|
 
 ※ バレルがソフト用のため、Conversion Point(Dynasty)を使用。
-
-

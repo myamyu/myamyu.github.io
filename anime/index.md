@@ -19,4 +19,4 @@ title: "【趣味】アニメ・漫画"
 - [rivisions](https://written-by-me.hatenadiary.jp/entry/2019/01/10/%E9%A2%A8%E9%82%AA%E3%81%A7%E5%AF%9D%E3%81%A6%E3%82%8B%E3%81%97%E3%81%8B%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%AE%E3%81%A7_revisions%E3%82%92%E4%B8%80%E6%B0%97%E3%81%AB%E8%A6%B3%E3%81%9F)
 - 転生したらスライムだった件
 - GATE 自衛隊 彼の地にて、斯く戦えり
-- 盾の勇者の成り上がり
+- [盾の勇者の成り上がり](https://written-by-me.hatenadiary.jp/entry/2019/01/20/%E3%80%8C%E7%9B%BE%E3%81%AE%E5%8B%87%E8%80%85%E3%81%AE%E6%88%90%E3%82%8A%E4%B8%8A%E3%81%8C%E3%82%8A%E3%80%8D%E3%82%92%E8%A6%8B%E5%A7%8B%E3%82%81%E3%81%9F)
