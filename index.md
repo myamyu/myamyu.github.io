@@ -25,7 +25,7 @@ SE(Standing Engineer/System Entertainer/Spacium Entertainer...)
 趣味
 -----
 
-- ももクロ
+- [ももクロ](/momoclo/)
 - [ダーツ](/darts/)
 - カラオケ
 - 映画
