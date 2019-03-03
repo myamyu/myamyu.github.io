@@ -10,6 +10,8 @@ title: "【趣味】ももクロ"
 
 詳しくは[こちら](https://note.mu/myamyu_tamago/n/nbeffeb41a04b)に長々と書いております。
 
+- [参戦歴](./history.html)
+
 推し
 -------
 
