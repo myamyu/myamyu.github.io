@@ -2,25 +2,22 @@
 title: "スキル"
 ---
 
-Web front end
--------------------
+# スキル
+
+## Web front end
 
 - TypeScript
 - ECMAScript
 - gulp
 - webpack
-
-### css
-
-- sass
-
-### JavaScript
-
 - jQuery
 - riotjs
+- vuejs
+- JavaScript
+- css
+- sass
 
-Web server side
-------------------
+## Web server side
 
 ### Java
 
@@ -30,8 +27,7 @@ Web server side
 
 - CakePHP
 
-etc
-------
+## etc
 
 - ruby
 - python
@@ -40,4 +36,4 @@ etc
 
 - lita
 - hubot
-
+- JavaScript(Slack SDK)
