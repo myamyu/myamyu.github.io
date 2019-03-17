@@ -42,22 +42,23 @@ jobs:
           fingerprints:
             - "93:07:ed:ba:de:ed:09:8a:27:e0:3d:35:3a:7c:91:4c"
       - run:
-          name: clone page resources.
+          name: add worktree
           command: |
-            echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
-            git clone -b gh-pages git@github.com:myamyu/myamyu.github.io.git ${PAGES_WORK}
+            git worktree add ${PAGES_WORK} gh-pages
       - run:
           name: copy docs
           command: cp -ap .vuepress/dist/. $PAGES_WORK
-      - run: git --work-tree ${PAGES_WORK} status
       - run: 
           name: deploy to github pages
           command: |
             git config user.email "circleci+myamyu@users.noreply.github.com"
             git config user.name "CircleCI"
-            git --work-tree ${PAGES_WORK} add --all
-            git --work-tree ${PAGES_WORK} commit -m "[skip ci] deploy to gh-pages from `git rev-parse --short HEAD`"
-            git --work-tree ${PAGES_WORK} push
+            pushd ${PAGES_WORK}
+            git status
+            git add --all
+            git commit -m "[skip ci] deploy to gh-pages from `git rev-parse --short HEAD`"
+            git status
+            popd
 workflows:
   version: 2
   deploy_to_hosting:
