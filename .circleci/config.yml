@@ -1,0 +1,99 @@
+version: 2
+jobs:
+  setup: &exector
+    working_directory: ~/work
+    docker:
+      - image: circleci/node:10.15
+    steps:
+      - checkout
+      - restore_cache:
+          name: Restore npm dependencies
+          key: npm-{{ checksum "package-lock.json" }}-{{ .Environment.CACHE_VERSION_NPM }}
+      - run:
+          name: Install dependencies
+          command: npm install
+      - save_cache:
+          name: Cache npm dependencies
+          key: npm-{{ checksum "package-lock.json" }}-{{ .Environment.CACHE_VERSION_NPM }}
+          paths:
+            - ~/work/node_modules
+      - persist_to_workspace: &save_workspace
+          root: .
+          paths:
+            - ./*
+  lint:
+    <<: *exector
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: Run markdownlint
+          command: npm run lint:doc
+  build:
+    <<: *exector
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: Run vuepress build
+          command: npm run build:doc
+      - persist_to_workspace:
+          <<: *save_workspace
+  deploy:
+    <<: *exector
+    environment:
+      PAGES_WORK: ~/pages_work
+    steps:
+      - attach_workspace:
+          at: .
+      - add_ssh_keys:
+          fingerprints:
+            - "93:07:ed:ba:de:ed:09:8a:27:e0:3d:35:3a:7c:91:4c"
+      - run:
+          name: add worktree
+          command: git worktree add $PAGES_WORK origin/master
+      - run:
+          name: replace docs
+          command: |
+            rm -rf $PAGES_WORK/*
+            cp -ap .vuepress/dist/. $PAGES_WORK
+            cp -pR .circleci $PAGES_WORK
+      - run: 
+          name: deploy to github pages
+          command: |
+            echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+            git config user.email "circleci+myamyu@users.noreply.github.com"
+            git config user.name "CircleCI"
+            LAST_LOG=`git log --oneline -n 1`
+            pushd $PAGES_WORK
+            git add --all
+            git commit -m "[skip ci] deploy from CircleCI | $LAST_LOG"
+            git log --oneline -n 3
+            git push origin HEAD:master
+            popd
+workflows:
+  version: 2
+  deploy_to_hosting:
+    jobs:
+      - setup:
+          filters:
+            branches:
+              ignore: master
+      - lint:
+          requires:
+            - setup
+          filters:
+            branches:
+              ignore: master
+      - build:
+          requires:
+            - lint
+          filters:
+            branches:
+              ignore: master
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: documents
