@@ -38,7 +38,7 @@ jobs:
           at: .
       - add_ssh_keys:
           fingerprints:
-            - "c6:27:ce:4e:d5:15:30:6b:a8:7c:16:51:16:b0:1a:13"
+            - "93:07:ed:ba:de:ed:09:8a:27:e0:3d:35:3a:7c:91:4c"
       - run:
           name: Deploy to Github Pages.
           command: npm run deploy
