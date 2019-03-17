@@ -9,7 +9,7 @@ Wakayama, Japan / [@myamyu_en on Twitter](https://twitter.com/myamyu_en)
 
 ### technology summary
 
-Java Script and ECMAScript(ES6) / webpack / gulp / jQuery / riot / css / scss / BigQuery / Adobe Analytics 
+Java Script and ECMAScript(ES6) / webpack / gulp / jQuery / riot / css / scss / BigQuery / Adobe Analytics
 
 ## experience
 

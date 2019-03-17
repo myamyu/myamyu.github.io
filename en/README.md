@@ -2,8 +2,7 @@
 
 Myamyu-Tamago was born in Ibaraki, Japan on 23 March 1980.
 
-
-## Why is his name "Myamyu-Tamago"?
+## Why is his name "Myamyu-Tamago"
 
 When he was junior high school student he thought "I'll make many friends in web chat room!" and he named himself "Myamyu".
 But some years later he found that the name was not unique.
