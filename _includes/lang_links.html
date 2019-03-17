@@ -1,9 +1,0 @@
-{% if page.locale %}
-<nav class="languages">
-    <ul>
-        {% for locale in page.locale %}
-            <li><a href="{{locale.href}}" hreflang="{{locale.lang}}">{{site.data.labels.locale[locale.lang]}} version</a></li>
-        {% endfor %}
-    </ul>
-</nav>
-{% endif %}

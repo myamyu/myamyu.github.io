@@ -1,7 +1,3 @@
----
-title: "スキル"
----
-
 # スキル
 
 ## Web front end

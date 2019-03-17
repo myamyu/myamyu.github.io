@@ -1,0 +1,28 @@
+{
+  "name": "myamyu.github.io",
+  "version": "1.0.0",
+  "description": "myamyu's github page",
+  "main": "index.js",
+  "scripts": {
+    "start": "vuepress dev",
+    "build:doc": "vuepress build",
+    "lint:doc": "markdownlint -i node_modules -i \".*/**/*\" \"./**/*.md\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myamyu/myamyu.github.io.git"
+  },
+  "author": "myamyu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/myamyu/myamyu.github.io/issues"
+  },
+  "homepage": "https://github.com/myamyu/myamyu.github.io#readme",
+  "devDependencies": {
+    "markdownlint": "^0.12.0",
+    "markdownlint-cli": "^0.14.0",
+    "vuepress": "^0.14.10",
+    "webpack-dev-middleware": "^3.6.0"
+  }
+}
