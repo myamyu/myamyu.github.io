@@ -1,0 +1,23 @@
+{
+  "name": "myamyu.github.io",
+  "version": "1.0.0",
+  "description": "myamyu's github page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myamyu/myamyu.github.io.git"
+  },
+  "author": "myamyu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/myamyu/myamyu.github.io/issues"
+  },
+  "homepage": "https://github.com/myamyu/myamyu.github.io#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.10",
+    "webpack-dev-middleware": "^3.6.0"
+  }
+}

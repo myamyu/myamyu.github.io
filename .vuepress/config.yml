@@ -1,0 +1,9 @@
+title: About みゃみゅ玉子（Myamyu-Tamago）
+description: みゃみゅ玉子（Myamyu-Tamago）による自己紹介サイトです。
+locales:
+  "/":
+    lang: 'ja'
+  "/en/":
+    lang: 'en-US'
+    title: About Myamyu-Tamago
+    description: I am Myamyu.
