@@ -48,16 +48,16 @@ jobs:
           name: copy docs to branch
           command: |
             cp -ap .vuepress/dist/. $PAGES_WORK
+      - run: 
+          name: deploy to github pages
+          command: |
+            echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
             git config user.email "circleci+myamyu@users.noreply.github.com"
             git config user.name "CircleCI"
             pushd $PAGES_WORK
             git add --all
             git commit -m "[skip ci] deploy to gh-pages from `git rev-parse --short HEAD`"
-      - run: git log --oneline -n 3
-      - run: 
-          name: deploy to github pages
-          command: |
-            echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+            git log --oneline -n 3
             git push
             popd
 workflows:
