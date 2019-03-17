@@ -33,6 +33,8 @@ jobs:
           <<: *save_workspace
   deploy:
     <<: *exector
+    environment:
+      PAGES_WORK: ~/pages_work
     steps:
       - attach_workspace:
           at: .
@@ -40,8 +42,18 @@ jobs:
           fingerprints:
             - "93:07:ed:ba:de:ed:09:8a:27:e0:3d:35:3a:7c:91:4c"
       - run:
-          name: Deploy to Github Pages.
-          command: npm run deploy
+          name: clone page resources.
+          command: git clone -b gh-pages git@github.com:myamyu/myamyu.github.io.git ${PAGES_WORK}
+      - run:
+          name: copy docs
+          command: cp -ap .vuepress/dist/. $PAGES_WORK
+      - run: git --work-tree ${PAGES_WORK} status
+      - run: 
+          name: deploy to github pages
+          command: |
+            git --work-tree ${PAGES_WORK} add --all
+            git --work-tree ${PAGES_WORK} commit -m "[skip ci] deploy to gh-pages from `git rev-parse --short HEAD`"
+            git --work-tree ${PAGES_WORK} push
 workflows:
   version: 2
   deploy_to_hosting:
