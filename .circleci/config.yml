@@ -41,22 +41,23 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "93:07:ed:ba:de:ed:09:8a:27:e0:3d:35:3a:7c:91:4c"
-      - run: git branch
       - run:
           name: add worktree
           command: git worktree add -b gh-pages $PAGES_WORK origin/gh-pages
       - run:
-          name: copy docs
-          command: cp -ap .vuepress/dist/. $PAGES_WORK
-      - run: 
-          name: deploy to github pages
+          name: copy docs to branch
           command: |
+            cp -ap .vuepress/dist/. $PAGES_WORK
             git config user.email "circleci+myamyu@users.noreply.github.com"
             git config user.name "CircleCI"
             pushd $PAGES_WORK
             git add --all
             git commit -m "[skip ci] deploy to gh-pages from `git rev-parse --short HEAD`"
-            git log --oneline -n 3
+      - run: git log --oneline -n 3
+      - run: 
+          name: deploy to github pages
+          command: |
+            echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
             git push
             popd
 workflows:
