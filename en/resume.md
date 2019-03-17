@@ -1,14 +1,8 @@
----
-title: "Resume"
----
-
-Myamyu-Tamago
-===============
+# Resume
 
 Wakayama, Japan / [@myamyu_en on Twitter](https://twitter.com/myamyu_en)
 
-qualifications
---------------
+## qualifications
 
 - 10+ years' experience in development and design for web application.
 - 3+ years' experience in planning and analytics for web application.
@@ -17,8 +11,7 @@ qualifications
 
 Java Script and ECMAScript(ES6) / webpack / gulp / jQuery / riot / css / scss / BigQuery / Adobe Analytics 
 
-experience
------------
+## experience
 
 - Web Applications Development Engineer in 8 members (2014-present)
   - Analyzing website using Adobe Analytics and BigQuery.
