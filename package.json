@@ -6,6 +6,7 @@
   "scripts": {
     "start": "vuepress dev",
     "build:doc": "vuepress build",
+    "deploy": "push-dir --dir=.vuepress/dist --branch=gh-pages --cleanup --allow-unclean --message \"[skip ci] deploy to gh-pages.\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
