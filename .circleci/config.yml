@@ -45,8 +45,9 @@ jobs:
           name: add worktree
           command: git worktree add -b gh-pages $PAGES_WORK origin/gh-pages
       - run:
-          name: copy docs to branch
+          name: replace docs
           command: |
+            rm -rf $PAGES_WORK/*
             cp -ap .vuepress/dist/. $PAGES_WORK
       - run: 
           name: deploy to github pages
@@ -54,9 +55,10 @@ jobs:
             echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
             git config user.email "circleci+myamyu@users.noreply.github.com"
             git config user.name "CircleCI"
+            LAST_LOG=`git log --oneline -n 1`
             pushd $PAGES_WORK
             git add --all
-            git commit -m "[skip ci] deploy to gh-pages from `git rev-parse --short HEAD`"
+            git commit -m "[skip ci] deploy to gh-pages | $LAST_LOG"
             git log --oneline -n 3
             git push
             popd
