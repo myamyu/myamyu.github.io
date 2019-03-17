@@ -21,6 +21,14 @@ jobs:
           root: .
           paths:
             - ./*
+  lint:
+    <<: *exector
+    steps:
+      - attach_workspace:
+          at: .
+      - run:
+          name: Run markdownlint
+          command: npm run lint:doc
   build:
     <<: *exector
     steps:
@@ -70,9 +78,15 @@ workflows:
           filters:
             branches:
               ignore: gh-pages
-      - build:
+      - lint:
           requires:
             - setup
+          filters:
+            branches:
+              ignore: gh-pages
+      - build:
+          requires:
+            - lint
           filters:
             branches:
               ignore: gh-pages
