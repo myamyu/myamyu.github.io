@@ -54,10 +54,10 @@ jobs:
             git config user.email "circleci+myamyu@users.noreply.github.com"
             git config user.name "CircleCI"
             pushd $PAGES_WORK
-            git status
             git add --all
             git commit -m "[skip ci] deploy to gh-pages from `git rev-parse --short HEAD`"
-            git status
+            git log --oneline -n 3
+            git push
             popd
 workflows:
   version: 2
