@@ -36,6 +36,9 @@ jobs:
     steps:
       - attach_workspace:
           at: .
+      - add_ssh_keys:
+          fingerprints:
+            - "c6:27:ce:4e:d5:15:30:6b:a8:7c:16:51:16:b0:1a:13"
       - run:
           name: Deploy to Github Pages.
           command: npm run deploy
