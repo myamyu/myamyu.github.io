@@ -1,15 +1,41 @@
 title: About みゃみゅ玉子（Myamyu-Tamago）
 description: みゃみゅ玉子（Myamyu-Tamago）による自己紹介サイトです。
+ga: UA-86731033-1
+locales:
+  "/":
+    lang: ja
+  "/en/":
+    lang: en-US
+    title: About Myamyu-Tamago
+    description: I am Myamyu.
 head:
   - 
     - link
     - 
       rel: icon
       href: /favicon.ico
-locales:
-  "/":
-    lang: 'ja'
-  "/en/":
-    lang: 'en-US'
-    title: About Myamyu-Tamago
-    description: I am Myamyu.
+themeConfig:
+  lastUpdated: true
+  repo: myamyu/myamyu.github.io
+  locales:
+    "/":
+      label: 日本語
+      lastUpdated: 更新日
+      nav:
+        -
+          text: Home
+          link: /
+        -
+          text: 履歴
+          link: /history.md
+        -
+          text: ももクロ
+          link: /momoclo/
+        -
+          text: ダーツ
+          link: /darts/
+        -
+          text: アニメ・漫画
+          link: /anime/
+    "/en/":
+      label: English
