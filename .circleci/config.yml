@@ -41,10 +41,10 @@ jobs:
       - add_ssh_keys:
           fingerprints:
             - "93:07:ed:ba:de:ed:09:8a:27:e0:3d:35:3a:7c:91:4c"
+      - run: git branch
       - run:
           name: add worktree
-          command: |
-            git worktree add ${PAGES_WORK} gh-pages
+          command: git worktree add --track -b gh-pages $PAGES_WORK origin/gh-pages
       - run:
           name: copy docs
           command: cp -ap .vuepress/dist/. $PAGES_WORK
@@ -53,7 +53,7 @@ jobs:
           command: |
             git config user.email "circleci+myamyu@users.noreply.github.com"
             git config user.name "CircleCI"
-            pushd ${PAGES_WORK}
+            pushd $PAGES_WORK
             git status
             git add --all
             git commit -m "[skip ci] deploy to gh-pages from `git rev-parse --short HEAD`"
