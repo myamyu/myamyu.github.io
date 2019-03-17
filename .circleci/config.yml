@@ -44,7 +44,7 @@ jobs:
       - run: git branch
       - run:
           name: add worktree
-          command: git worktree add --track -b gh-pages $PAGES_WORK origin/gh-pages
+          command: git worktree add -b gh-pages $PAGES_WORK origin/gh-pages
       - run:
           name: copy docs
           command: cp -ap .vuepress/dist/. $PAGES_WORK
