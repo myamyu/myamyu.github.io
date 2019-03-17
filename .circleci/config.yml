@@ -51,7 +51,7 @@ jobs:
             - "93:07:ed:ba:de:ed:09:8a:27:e0:3d:35:3a:7c:91:4c"
       - run:
           name: add worktree
-          command: git worktree add -b gh-pages $PAGES_WORK origin/gh-pages
+          command: git worktree add $PAGES_WORK origin/master
       - run:
           name: replace docs
           command: |
@@ -66,7 +66,7 @@ jobs:
             LAST_LOG=`git log --oneline -n 1`
             pushd $PAGES_WORK
             git add --all
-            git commit -m "[skip ci] deploy to gh-pages | $LAST_LOG"
+            git commit -m "[skip ci] deploy from CircleCI | $LAST_LOG"
             git log --oneline -n 3
             git push
             popd
@@ -77,22 +77,22 @@ workflows:
       - setup:
           filters:
             branches:
-              ignore: gh-pages
+              ignore: master
       - lint:
           requires:
             - setup
           filters:
             branches:
-              ignore: gh-pages
+              ignore: master
       - build:
           requires:
             - lint
           filters:
             branches:
-              ignore: gh-pages
+              ignore: master
       - deploy:
           requires:
             - build
           filters:
             branches:
-              only: master
+              only: documents
