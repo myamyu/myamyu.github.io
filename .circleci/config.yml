@@ -57,6 +57,7 @@ jobs:
           command: |
             rm -rf $PAGES_WORK/*
             cp -ap .vuepress/dist/. $PAGES_WORK
+            cp -pR .circleci $PAGES_WORK
       - run: 
           name: deploy to github pages
           command: |
@@ -68,7 +69,7 @@ jobs:
             git add --all
             git commit -m "[skip ci] deploy from CircleCI | $LAST_LOG"
             git log --oneline -n 3
-            git push
+            git push origin HEAD:master
             popd
 workflows:
   version: 2
