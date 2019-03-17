@@ -44,7 +44,7 @@ jobs:
       - run:
           name: clone page resources.
           command: |
-            mkdir ~/.ssh/ && echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
+            echo -e "Host github.com\n\tStrictHostKeyChecking no\n" > ~/.ssh/config
             git clone -b gh-pages git@github.com:myamyu/myamyu.github.io.git ${PAGES_WORK}
       - run:
           name: copy docs
