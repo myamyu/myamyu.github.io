@@ -6,6 +6,7 @@
 詳しくは[こちら](https://note.mu/myamyu_tamago/n/nbeffeb41a04b)に長々と書いております。
 
 - [参戦歴](./history.md)
+- ももクロ以外の推しごとは[推しごと](/oshigoto/)にまとめています。
 
 ## 推し
 
