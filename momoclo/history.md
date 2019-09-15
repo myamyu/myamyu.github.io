@@ -95,3 +95,10 @@
 - 2018.12.09 ANGEL EYES限定イベント＠インテックス大阪5号館「ガッツリライブ」
 - 2018.12.24 ももいろクリスマス2018 DIAMOND PHILHARMONY -The Real Deal-
 - 2018.12.25 ももいろクリスマス2018 DIAMOND PHILHARMONY -The Real Deal-
+
+## 2019年
+
+- 2019.08.18 ももクロ一座特別公演 「大江戸娯楽活劇　姫はくノ一」 「ももいろクローバーＺ　大いに歌う」
+  - 感想：[ももクロ 明治座「大江戸娯楽活劇　姫はくノ一」に行ってきました！](https://written-by-me.hatenadiary.jp/entry/momoclo-meijiza-2019)
+- 2019.08.21 ももクロ一座特別公演 「大江戸娯楽活劇　姫はくノ一」 「ももいろクローバーＺ　大いに歌う」
+  - 感想：[ももクロ 明治座「大江戸娯楽活劇　姫はくノ一」に行ってきました！](https://written-by-me.hatenadiary.jp/entry/momoclo-meijiza-2019)
