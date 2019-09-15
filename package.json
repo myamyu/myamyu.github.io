@@ -22,7 +22,7 @@
   "devDependencies": {
     "markdownlint": "^0.15.0",
     "markdownlint-cli": "^0.16.0",
-    "vuepress": "^1.0.1",
-    "webpack-dev-middleware": "^3.7.0"
+    "vuepress": "^1.1.0",
+    "webpack-dev-middleware": "^3.7.1"
   }
 }
