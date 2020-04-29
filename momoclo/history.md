@@ -102,3 +102,6 @@
   - 感想：[ももクロ 明治座「大江戸娯楽活劇　姫はくノ一」に行ってきました！](https://written-by-me.hatenadiary.jp/entry/momoclo-meijiza-2019)
 - 2019.08.21 ももクロ一座特別公演 「大江戸娯楽活劇　姫はくノ一」 「ももいろクローバーＺ　大いに歌う」
   - 感想：[ももクロ 明治座「大江戸娯楽活劇　姫はくノ一」に行ってきました！](https://written-by-me.hatenadiary.jp/entry/momoclo-meijiza-2019)
+- 2019.12.24 ももいろクリスマス2019 〜冬空のミラーボール〜
+- 2019.12.25 ももいろクリスマス2019 〜冬空のミラーボール〜
+  - 感想：[そこにいた全タマノフが感動のあまり涙を流したであろう程の玉井詩織の覚醒を見たクリスマス2days](https://written-by-me.hatenadiary.jp/entry/momoiro-xmas-2019-in-ssa)
