@@ -105,3 +105,9 @@
 - 2019.12.24 ももいろクリスマス2019 〜冬空のミラーボール〜
 - 2019.12.25 ももいろクリスマス2019 〜冬空のミラーボール〜
   - 感想：[そこにいた全タマノフが感動のあまり涙を流したであろう程の玉井詩織の覚醒を見たクリスマス2days](https://written-by-me.hatenadiary.jp/entry/momoiro-xmas-2019-in-ssa)
+
+## 2020年
+
+- 2020.06.25 CongratuRenichan〜The 02 season 2020〜 @GyaO
+- 2020.06.25 ももいろクローバーZ「Behind closed doors『2020 次が始まり』 @GyaO
+- 2020.08.02 ももクロ夏のバカ騒ぎ2020 配信先からこんにちは @AbemaTV
