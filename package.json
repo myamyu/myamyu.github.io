@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/myamyu/myamyu.github.io#readme",
   "devDependencies": {
-    "markdownlint": "^0.15.0",
-    "markdownlint-cli": "^0.16.0",
-    "vuepress": "^1.1.0",
-    "webpack-dev-middleware": "^3.7.1"
+    "markdownlint": "^0.20.4",
+    "markdownlint-cli": "^0.23.2",
+    "vuepress": "^1.5.3",
+    "webpack-dev-middleware": "^3.7.2"
   }
 }
