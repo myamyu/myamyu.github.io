@@ -27,6 +27,7 @@
 
 - ruby
 - python
+- go
 
 ### chat bot
 
