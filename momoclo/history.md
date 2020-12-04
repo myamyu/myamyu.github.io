@@ -111,3 +111,6 @@
 - 2020.06.25 CongratuRenichan〜The 02 season 2020〜 @GyaO
 - 2020.06.25 ももいろクローバーZ「Behind closed doors『2020 次が始まり』 @GyaO
 - 2020.08.02 ももクロ夏のバカ騒ぎ2020 配信先からこんにちは @AbemaTV
+  - 感想： [伝説の夏をもう一度！ももクロ夏のバカ騒ぎ2020 完全版が配信されます](https://written-by-me.hatenadiary.jp/entry/momoclo-summer-concert-2020-returns)
+- 2020.11.07 [ももクロチャンピオンカーニバル2020](https://www.momoclo.net/pub/pc/information/?id=5922) @TAPIRS
+- 2020.11.29 [Play!](https://www.momoclo.net/play/) @AbemaTV
