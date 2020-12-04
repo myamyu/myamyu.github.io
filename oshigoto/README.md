@@ -45,6 +45,7 @@
 ## フィロソフィーのダンス
 
 - 2020.08.06 [5 Years Anniversary Party](https://danceforphilosophy-fc.com/3009932544/)
+- 2020.11.19 [Philosophy no Dance "World Extension"](https://danceforphilosophy-fc.com/4336541134/)
 
 ## そのほか
 
