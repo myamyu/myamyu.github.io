@@ -46,6 +46,9 @@
 
 - 2020.08.06 [5 Years Anniversary Party](https://danceforphilosophy-fc.com/3009932544/)
 - 2020.11.19 [Philosophy no Dance "World Extension"](https://danceforphilosophy-fc.com/4336541134/)
+- 2021.02.02 [Dive/Connect@Zepp Online Vol.16](https://www.diveconnect.net/#/philosophynodance)
+- 2021.04.29 [カップラーメン・プログラム 発売記念 配信ライブ](https://danceforphilosophy.com/news/2021/03/31/2375)
+- 2021.07.11 [Dance with Me TOUR 2021](https://twitter.com/DFP_2015/status/1412061814888681477) 見逃し配信
 
 ## そのほか
 
