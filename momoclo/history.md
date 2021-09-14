@@ -116,3 +116,11 @@
 - 2020.11.29 [Play!](https://www.momoclo.net/play/) @AbemaTV
 - [ももいろ歌合戦2020 Advent Calendar](https://adventar.org/calendars/6036)
 
+## 2021年
+
+- 2021.05.05 「家にいろTV」第五夜「SURF & DOLPHIN in 品プリ presented by SOPHISTANCE
+- 2021.06.04 [ももクロ怒涛の生誕祭　～しおりん祭～](https://www.momoclo.net/pub/pc/information/?id=6305) @AbemaTV
+- 2021.06.11 [ももクロ怒涛の生誕祭　～あーりん祭～](https://www.momoclo.net/pub/pc/information/?id=6305) @AbemaTV
+- 2021.06.21 [ももクロ怒涛の生誕祭　～れにちゃん祭～](https://www.momoclo.net/pub/pc/information/?id=6305) @AbemaTV
+- 2021.07.12 [ももクロ怒涛の生誕祭　～かなこ祭～](https://www.momoclo.net/pub/pc/information/?id=6305) @AbemaTV
+- 2021.07.25 [ももいろクローバーZ スペシャルファンミーティング](https://www.momoclo.net/pub/pc/information/?id=6305) @AbemaTV
