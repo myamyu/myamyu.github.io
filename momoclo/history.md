@@ -114,3 +114,5 @@
   - 感想： [伝説の夏をもう一度！ももクロ夏のバカ騒ぎ2020 完全版が配信されます](https://written-by-me.hatenadiary.jp/entry/momoclo-summer-concert-2020-returns)
 - 2020.11.07 [ももクロチャンピオンカーニバル2020](https://www.momoclo.net/pub/pc/information/?id=5922) @TAPIRS
 - 2020.11.29 [Play!](https://www.momoclo.net/play/) @AbemaTV
+- [ももいろ歌合戦2020 Advent Calendar](https://adventar.org/calendars/6036)
+
