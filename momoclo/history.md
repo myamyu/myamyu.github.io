@@ -127,3 +127,4 @@
 - 2021.09.19 [The LIVE 〜諦めない夏〜 in ABEMA](https://www.momoclo.net/pub/pc/information/?id=6478) @AbemaTV
 - 2021.12.07 [ももいろクリスマス2021 ～さいたまスーパーアリーナ大会～](https://www.momoclo.net/momochri2021/)
 - 2021.12.08 [ももいろクリスマス2021 ～さいたまスーパーアリーナ大会～](https://www.momoclo.net/momochri2021/)
+  - 感想： [最高を更新！2年ぶりのももいろクリスマスに参戦してきました！！](https://written-by-me.hatenadiary.jp/entry/momoiro-xmas-2021-in-ssa)
