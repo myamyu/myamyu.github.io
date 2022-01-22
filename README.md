@@ -14,15 +14,15 @@ SE(Standing Engineer/System Entertainer/Spacium Entertainer...)
 
 ## 趣味
 
-趣味は趣味を増やすことなので、今後もどんどん増えていくかもしれません。
+趣味は[趣味を増やすこと](https://scrapbox.io/myamyu/%E8%B6%A3%E5%91%B3%E3%82%92%E5%A2%97%E3%82%84%E3%81%99%E3%81%93%E3%81%A8)なので、今後もどんどん増えていくかもしれません。
 
-- [ももクロ](/momoclo/)
-  - その影響でほかのアイドルも推してます [推しごと](/oshigoto/)
+- [推しごと](https://scrapbox.io/myamyu/%E6%8E%A8%E3%81%97%E3%81%94%E3%81%A8)
 - [ダーツ](/darts/)
+- [映画](https://scrapbox.io/myamyu/%E6%98%A0%E7%94%BB)
+- [アニメ](https://scrapbox.io/myamyu/%E3%82%A2%E3%83%8B%E3%83%A1)
+- [マンガ](https://scrapbox.io/myamyu/%E3%83%9E%E3%83%B3%E3%82%AC)
+- [ゲーム](https://scrapbox.io/myamyu/%E3%82%B2%E3%83%BC%E3%83%A0)
 - カラオケ
-- 映画
-- [アニメ・漫画](/anime/)
-- ゲーム
 
 バドミントン、スキー、ビリヤードも過去にやってました。もうできないなあ・・・
 
@@ -46,6 +46,7 @@ SE(Standing Engineer/System Entertainer/Spacium Entertainer...)
 ## SNSなど
 
 - github - [@myamyu](https://github.com/myamyu)
+- Scrapbox - [みゃみゅ玉子の書きなぐり](https://scrapbox.io/myamyu/)
 - blog - [なぜ、みゃみゅに玉子がついたのか？](https://written-by-me.hatenadiary.jp/)
 - twitter - [@myamyu](https://twitter.com/myamyu)
 - instagram - [myamyu](https://www.instagram.com/myamyu/)
