@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8" />
+    {% seo %}
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+    </header>
+
+    <main>
+      <section id="main-content">
+        {{ content }}
+      </section>
+    </main>
+  </body>
+</html>
