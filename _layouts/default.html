@@ -10,7 +10,9 @@
     <header>
       <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
     </header>
-
+    <nav>
+      {% include toc.html html=content %}
+    </nav>
     <main>
       <section id="main-content">
         {{ content }}
