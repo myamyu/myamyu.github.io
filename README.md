@@ -15,6 +15,11 @@ VTuberとしてのキャラクターデザインは自分自身の特徴から�
 主な活動は、VTuberとしては [Twitchでのライブ配信](https://www.twitch.tv/myamyu) や [ポッドキャスト](https://listen.style/p/myamyu_ai_radio)。
 eスポーツイベントの手伝いは主に土日祝日で、基本的には機材の設置や来場者の案内がメイン。たまに試合の実況もさせてもらっている。
 
+アニメやマンガも人並みに嗜んでいる。  
+参考:
+- [おすすめしたいアニメ](https://scrapbox.io/myamyu/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%E3%81%97%E3%81%9F%E3%81%84%E3%82%A2%E3%83%8B%E3%83%A1)
+- 
+
 ### ITエンジニアとして
 
 スタンディングデスクを好み、1日中立って仕事をしている。  
@@ -44,12 +49,17 @@ graph TD;
   dfp[フィロソフィーのダンス]
   ps[ファントムシータ]
   
-  mcz --> shachi --> gem --> wst
+  mcz --> shachi --> gem 
   mcz --> spa --> ny --> mamo
+  spa --> wst
   mcz --> tako
   mcz --> dfp
   mcz --> ps
 ```
+
+### ゲーマーとして
+
+小さな頃から
 
 ## 経歴
 
