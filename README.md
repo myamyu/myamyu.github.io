@@ -6,16 +6,24 @@ VTuberとしてのキャラクターデザインは自分自身の特徴から�
 
 {:toc}
 
-## 概要
+## 人物・概要
 
 誕生日は3月23日。身長は175cmでVTuberとしてのキャラクターもそのサイズで作成している。
 血液型はＯ型で、ほぼ100％の確率で当てられる。
 
+おもしろそう・楽しそうと思うところに全力疾走する癖があり、その勢いからグループ内の重要な役割を与えられることもある。
+少しの責任感と飽きっぽい性格が常に戦っていて、モチベーション管理で疲弊していることも珍しくはない。
+
+## 経歴
+
+東京都出身（と本人は言い張っているが、生まれたのは市川）で、茨城県で育つ。  
+茨城県、東京都と関東地方を中心に仕事をしているが、
 
 ## VTuberの活動
 
 - 火曜日： **Twitchで定例配信** 21:30頃開始を目指している
   - [Twitch(myamyu)](https://www.twitch.tv/myamyu)
+  - 配信の記録やショート動画は [Youtubeチャンネル](https://www.youtube.com/@%E3%81%BF%E3%82%83%E3%81%BF%E3%82%85%E7%8E%89%E5%AD%90_%E6%AE%BF%E3%81%AE%E5%AE%B6%E6%9D%A5Vtuber)で見れる
 - 水曜日：**podcast 「殿の寝静まるそのあとで、家来はちょいと語りに入る」更新**  
   - [Listen](https://listen.style/p/myamyu_ai_radio): 文字起こし性能が良いので読みながらでも聴ける
   - [Youtube](https://youtube.com/playlist?list=PLYNyI4-wKWePTWvhIgeZSxF8oljAfjEIO&si=_OzMtFWChpeCeYyG): 動画で見れる
