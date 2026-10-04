@@ -16,8 +16,9 @@ body {
     box-sizing: border-box;
     font-family: 'Shippori Mincho', serif;
     font-weight: 500;
+    font-size: 1.125rem;
     margin: 0 auto 240px;
-    max-width: 640px;
+    max-width: 40em;
     padding: 0 10px;
 }
 
@@ -28,12 +29,6 @@ h1 {
 article {
     background-color: rgba(255,255,255,0.6);
     color: #403933;
-    /*
-    最小: 15px (スマホ)
-    推奨: 1920pxで【正確に18px】、3840pxで【正確に24px】になる一次関数
-    最大: 24px (4Kでの上限)
-    */
-    font-size: clamp(0.9375rem, 0.3125vw + 0.75rem, 1.5rem);
     line-height: 1.7;
 }
 
