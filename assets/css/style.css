@@ -67,13 +67,10 @@ strong {
 }
 
 #toc {
-    background-color: #f5f8fa;
+    background-color: #E5E2E4;
     padding: 10px;
 }
 
-#toc ul {
-
-}
 
 @media screen and (orientation: portrait) {
     html {
