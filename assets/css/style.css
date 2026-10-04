@@ -5,7 +5,7 @@ a:link {
 html {
     background-image: url(/assets/image/bg-image.webp);
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: bottom center;
     background-size: contain;
     background-color: rgba(255,255,255,0.8);
     background-blend-mode: lighten;
@@ -14,13 +14,18 @@ html {
 
 body {
     box-sizing: border-box;
-    margin: 0 auto;
+    margin: 0 auto 240px;
     max-width: 640px;
     padding: 0 10px;
 }
 
 h1 {
     margin: 0;
+}
+
+article {
+    background-color: rgba(255,255,255,0.6);
+    color: #403933;
 }
 
 #siteTitle {
@@ -43,5 +48,6 @@ h1 {
 @media screen and (orientation: portrait) {
     html {
         background-image: url(/assets/image/bg-image-sp.webp);
+        background-position: top right;
     }
 }
