@@ -1,5 +1,14 @@
 a:link {
+    color: #0071B0;
+    font-weight: 600;
     text-decoration: none;
+}
+a:hover{
+    color: #0086AD;
+    text-decoration: underline;
+}
+a:visited {
+    color: #0071B0;
 }
 
 html {
@@ -28,11 +37,12 @@ h1 {
 
 article {
     background-color: rgba(255,255,255,0.6);
-    color: #403933;
+    color: #322b29;
     line-height: 1.7;
 }
 
 strong {
+    color: #080000;
     font-weight: 800;
 }
 
