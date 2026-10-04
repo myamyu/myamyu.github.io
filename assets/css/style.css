@@ -32,6 +32,10 @@ article {
     line-height: 1.7;
 }
 
+strong {
+    font-weight: 800;
+}
+
 #siteTitle {
     text-align: center;
 }
