@@ -1,7 +1,8 @@
 # みゃみゅ玉子
 
-**みゃみゅ玉子** は、和歌山のVTuber、ITエンジニア、eスポーツイベント手伝い、殿の家来、ドルヲタ、ゲーマー。
+**みゃみゅ玉子** は、和歌山のVTuber、ITエンジニア、eスポーツイベント手伝い、殿の家来、ドルヲタ、ゲーマー。  
 「たまごさん」「みゃみゅちゃん」と呼ばれることが多く、「みゃみゅ玉子さん」とフルで呼んでくれる人は少ない。
+
 VTuberとしてのキャラクターデザインは自分自身の特徴から作っている。
 
 ## 人物・概要
@@ -114,3 +115,8 @@ RPGがメインだったが、大人になるにつれて長い時間かける�
 - 水曜日：**podcast 「殿の寝静まるそのあとで、家来はちょいと語りに入る」更新**  
   - [Listen](https://listen.style/p/myamyu_ai_radio): 文字起こし性能が良いので読みながらでも聴ける
   - [Youtube](https://youtube.com/playlist?list=PLYNyI4-wKWePTWvhIgeZSxF8oljAfjEIO&si=_OzMtFWChpeCeYyG): 動画で見れる
+
+## 外部リンク
+
+- [みゃみゅ玉子](https://www.threads.com/@myamyu) (@myamyu) - Threads
+- []

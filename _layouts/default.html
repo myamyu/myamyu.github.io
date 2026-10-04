@@ -2,13 +2,13 @@
 <html lang="ja">
   <head>
     <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% seo %}
-    {% include head-custom.html %}
   </head>
   <body>
     <header>
-      <h1><a href="/">{{ site.title | default: site.github.repository_name }}</a></h1>
+      <h1><a href="/"><img src="/assets/image/myamyu-logo.svg" alt="みゃみゅ玉子" /></a></h1>
     </header>
     <nav>
       {% include toc.html html=content %}
