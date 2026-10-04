@@ -1,3 +1,11 @@
 a:link {
     text-decoration: none;
 }
+
+h1 {
+    text-align: center;
+}
+
+#logo {
+    width: 200px;
+}

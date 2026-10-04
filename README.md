@@ -58,6 +58,10 @@ graph TD;
   mcz --> ps
 ```
 
+#### ライブ参戦履歴
+
+→詳細は「[推しごと履歴](https://scrapbox.io/myamyu/%E6%8E%A8%E3%81%97%E3%81%94%E3%81%A8%E5%B1%A5%E6%AD%B4)」を参照
+
 ### ゲーマーとして
 
 小さな頃からよくゲームをしていた。  
@@ -69,28 +73,6 @@ RPGがメインだったが、大人になるにつれて長い時間かける�
 好きな格闘ゲームはヴァンパイアシリーズで、レイレイ、フォボス、Q-Beeなどを使う。
 
 愛用コントローラーはRushBox。Steamの音ゲーにも使用する。
-
-#### 格闘ゲーム 使用キャラクター
-
-| ゲームタイトル | 使用キャラクター | 備考 |
-|---|---|---|
-|ストリートファイター 2| ガイル、ブランカ | 波動拳むずかしいからガイルがいいよと友人に勧められて |
-|ストリートファイター 6| リリー、エレナ、ザンギエフ | |
-|ヴァンパイア| モリガン | |
-|ヴァンパイア・ハンター| レイレイ、フォボス | |
-|ヴァンパイアセイヴァー| レイレイ、Q-Bee | |
-|KOFシリーズ| 麻宮アテナ、不知火舞、キング、ユリ・サカザキ、椎拳崇 | アテナがメイン |
-|餓狼伝説| アンディ・ボガード | |
-|餓狼伝説 2| アンディ・ボガード | |
-|餓狼伝説 3| ジョー・東 | |
-|餓狼伝説 City of the Wolves| プリチャ、B.ジェニー | |
-|鉄拳 8| パンダ、ミアリズ、吉光 | |
-|バーチャファイター 2| パイ・チェン | |
-|バーチャファイター 3| パイ・チェン | |
-|バーチャファイター 5 R.E.V.O. | アイリーン | |
-|GUILTY GEAR -STRIVE-| ベッドマン？、ラムレザル | |
-|Granblue Fantasy Versus: Rising| ヴィーラ、ガレヲン | |
-|MARVEL Tōkon: Fighting Souls| ミズ・マーベル、ロキ、デンジャー、ペニー・パーカー | ミズ・マーベルがメイン |
 
 ## 経歴
 
@@ -116,7 +98,44 @@ RPGがメインだったが、大人になるにつれて長い時間かける�
   - [Listen](https://listen.style/p/myamyu_ai_radio): 文字起こし性能が良いので読みながらでも聴ける
   - [Youtube](https://youtube.com/playlist?list=PLYNyI4-wKWePTWvhIgeZSxF8oljAfjEIO&si=_OzMtFWChpeCeYyG): 動画で見れる
 
+#### 格闘ゲーム 使用キャラクター
+
+| ゲームタイトル | 使用キャラクター | 備考 |
+|---|---|---|
+|ストリートファイター 2| ガイル、ブランカ | 波動拳むずかしいからガイルがいいよと友人に勧められて |
+|ストリートファイター 6| リリー、エレナ、ザンギエフ | |
+|ヴァンパイア| モリガン | |
+|ヴァンパイア・ハンター| レイレイ、フォボス | |
+|ヴァンパイアセイヴァー| レイレイ、Q-Bee | |
+|KOFシリーズ| 麻宮アテナ、不知火舞、キング、ユリ・サカザキ、椎拳崇 | アテナがメイン |
+|餓狼伝説| アンディ・ボガード | |
+|餓狼伝説 2| アンディ・ボガード | |
+|餓狼伝説 3| ジョー・東 | |
+|餓狼伝説 City of the Wolves| プリチャ、B.ジェニー | |
+|鉄拳 8| パンダ、ミアリズ、吉光 | |
+|バーチャファイター 2| パイ・チェン | |
+|バーチャファイター 3| パイ・チェン | |
+|バーチャファイター 5 R.E.V.O. | アイリーン | |
+|GUILTY GEAR -STRIVE-| ベッドマン？、ラムレザル | |
+|Granblue Fantasy Versus: Rising| ヴィーラ、ガレヲン | |
+|MARVEL Tōkon: Fighting Souls| ミズ・マーベル、ロキ、デンジャー、ペニー・パーカー | ミズ・マーベルがメイン |
+
 ## 外部リンク
 
-- [みゃみゅ玉子](https://www.threads.com/@myamyu) (@myamyu) - Threads
-- []
+- 総合
+  - [みゃみゅ玉子🐣｜和歌山で殿🐯を応援するVTuber](https://www.threads.com/@myamyu) (@myamyu) - Threads
+  - [みゃみゅ玉子🐣](https://x.com/myamyu) (@myamyu) - X
+  - [みゃみゅ玉子🐣｜和歌山で殿🐯を応援するVTuber](https://www.instagram.com/myamyu/) (@myamyu) - Instagram
+  - [和歌山で殿を応援しているVTuber｜みゃみゅ玉子🐣](https://note.com/myamyu_tamago) (myamyu_tamago) - note
+  - [みゃみゅ玉子](https://github.com/myamyu) (myamyu) - Github
+- VTuber
+  - [みゃみゅ玉子](https://www.twitch.tv/myamyu) (@myamyu) - Twitch
+  - [みゃみゅ玉子｜和歌山を応援している殿を応援しているVTuber](https://listen.style/u/myamyu.v) (@myamyu.v) - LISTEN (podcast)
+  - [みゃみゅ玉子🐣｜和歌山で殿を応援している家来系VTuber](https://x.com/myamyu_v) (@myamyu_v) - X
+  - [みゃみゅ玉子🐯和歌山で殿を応援するVtuber](https://www.youtube.com/@%E3%81%BF%E3%82%83%E3%81%BF%E3%82%85%E7%8E%89%E5%AD%90_%E6%AE%BF%E3%81%AE%E5%AE%B6%E6%9D%A5Vtuber) (@みゃみゅ玉子🐯和歌山で殿を応援するVtuber) - Youtube
+  - [VTuber みゃみゅ玉子](https://github.com/myamyu-tamago-v) (myamyu-tamago-v) - Github
+- がおりん藩
+  - [『がおりん藩』｜がおりん@和歌山Vを応援してます🐯🏯](https://x.com/gaorin_v_fan) (@gaorin_v_fan) - X
+- ゲーム
+  - [MyamyuTamago](https://steamcommunity.com/id/myamyu-tamago/) (@myamyu-tamago) - Steam
+  - [みゃみゅ玉子 #8717](https://www.xbox.com/ja-JP/play/user/myamyutamago) (myamyutamago) - XBox
