@@ -4,7 +4,7 @@ a:link {
     text-decoration: none;
 }
 a:visited {
-    color: #0071B0;
+    color: #0086cc;
 }
 a:hover{
     color: #8AB7D2;
@@ -43,6 +43,14 @@ article {
     background-color: rgba(255,255,255,0.6);
     color: #322b29;
     line-height: 1.7;
+}
+
+article a:link {
+    color: #0000ee;
+}
+
+article a:visited {
+    color: #0000ee;
 }
 
 strong {
