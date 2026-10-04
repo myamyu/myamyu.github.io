@@ -3,6 +3,7 @@ a:link {
 }
 
 html {
+    background-image: url(/assets/image/bg-image.webp);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -12,9 +13,10 @@ html {
 }
 
 body {
-    max-width: 640px;
+    box-sizing: border-box;
     margin: 0 auto;
-
+    max-width: 640px;
+    padding: 0 10px;
 }
 
 h1 {
@@ -27,4 +29,19 @@ h1 {
 
 #logo {
     width: 200px;
+}
+
+#toc {
+    background-color: #f5f8fa;
+    padding: 10px;
+}
+
+#toc ul {
+
+}
+
+@media screen and (orientation: portrait) {
+    html {
+        background-image: url(/assets/image/bg-image-sp.webp);
+    }
 }
