@@ -3,12 +3,16 @@ a:link {
     font-weight: 600;
     text-decoration: none;
 }
-a:hover{
-    color: #0086AD;
-    text-decoration: underline;
-}
 a:visited {
     color: #0071B0;
+}
+a:hover{
+    color: #8AB7D2;
+    text-decoration: underline;
+}
+a:active{
+    color: #F6B894;
+    text-decoration: underline;
 }
 
 html {
