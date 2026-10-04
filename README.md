@@ -98,9 +98,9 @@ RPGがメインだったが、大人になるにつれて長い時間かける�
   - [Listen](https://listen.style/p/myamyu_ai_radio): 文字起こし性能が良いので読みながらでも聴ける
   - [Youtube](https://youtube.com/playlist?list=PLYNyI4-wKWePTWvhIgeZSxF8oljAfjEIO&si=_OzMtFWChpeCeYyG): 動画で見れる
 
-#### 格闘ゲーム 使用キャラクター
+## 格闘ゲーム 使用キャラクター
 
-| ゲームタイトル | 使用キャラクター | 備考 |
+| タイトル | キャラクター | 備考 |
 |---|---|---|
 |ストリートファイター 2| ガイル、ブランカ | 波動拳むずかしいからガイルがいいよと友人に勧められて |
 |ストリートファイター 6| リリー、エレナ、ザンギエフ | |

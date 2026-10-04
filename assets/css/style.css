@@ -2,7 +2,26 @@ a:link {
     text-decoration: none;
 }
 
+html {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: rgba(255,255,255,0.8);
+    background-blend-mode: lighten;
+    background-attachment: fixed;
+}
+
+body {
+    max-width: 640px;
+    margin: 0 auto;
+
+}
+
 h1 {
+    margin: 0;
+}
+
+#siteTitle {
     text-align: center;
 }
 
